@@ -6,6 +6,9 @@
 - GENERAL dgp07 Función genérica para obtener datos de terceros en Report Writer
 
 # Procedimiento de Puesta en producción
+
+Verificar el último cambio realizado en el repositorio local que no fuese propio y compararlo el último cambio realizado en el repositorio de TII.
+
 Caso 1. Modificación de aplicación y/o objetos sql
 1. Indicar la versión de la app en el about
 2. Instalar en producción
