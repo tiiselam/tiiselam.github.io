@@ -7,7 +7,8 @@
 
 # Procedimiento de Puesta en producción
 
-Verificar el último cambio realizado en el repositorio local que no fuese propio y compararlo el último cambio realizado en el repositorio de TII.
+Verificar el último cambio realizado en el repositorio local que no fuese propio y compararlo con el último cambio realizado en el repositorio de TII.
+Si no son iguales, se debe volver a cargar en el repositorio local la última versión del repositorio de TII. Luego, se pueden rehacer los cambios en el repositorio local y seguir los siguientes pasos:
 
 Caso 1. Modificación de aplicación y/o objetos sql
 1. Indicar la versión de la app en el about
